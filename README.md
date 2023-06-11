@@ -1,5 +1,5 @@
 # APP_PTI
-we aim to make learning of our collegues more efficient
+_we aim to make learning of our collegues more efficient_
 
 there are two version of this app one in a form of one folder and the onther in a form of one file.    
 The **go-to-option** is the one  **d i r e c t o r y**  version. You should download it and then unzip it.
